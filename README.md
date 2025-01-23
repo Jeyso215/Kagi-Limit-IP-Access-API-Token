@@ -2,6 +2,8 @@
 
 This repository provides a solution to secure your Kagi API Token by maintaining a list of bad IPs. It includes mechanisms to identify, store, and manage IP addresses that should be denied access to your API, ensuring enhanced security against unauthorized usage.
 
+![](images/kagi.png)
+
 ## Features
 
 - Identify bad IP addresses
